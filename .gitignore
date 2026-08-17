@@ -370,3 +370,6 @@ FodyWeavers.xsd
 bin/
 obj/
 build/
+
+# Machine-specific CMake presets (local tool paths)
+CMakeUserPresets.json
